@@ -1,1 +1,1 @@
-# android_raspdroid_device
+# proprietary_vendor_raspdroid
